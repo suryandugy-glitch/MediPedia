@@ -33,11 +33,6 @@
 
 ---
 
-A modern **Healthcare Management Web Application** designed to make healthcare simple, organized, and accessible. **MediPidia** enables users to manage medicines, book doctor consultations, access online pharmacy services, receive medication reminders, and securely maintain personal health records—all through a clean, responsive, and user-friendly interface.
-
-Whether you're tracking daily medications, scheduling appointments, or managing your digital health history, **MediPidia** brings everything together in one seamless platform.
----
-
 # 📸 Preview
 
 <p align="center">
