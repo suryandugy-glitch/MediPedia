@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MediShelf — Your health, at a glance</title>
+<title>MediPidia — Your health, at a glance</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -579,7 +579,7 @@
   <nav class="sidebar glass">
     <div class="brand">
       <div class="brand-mark"></div>
-      <div class="brand-name">MediShelf</div>
+      <div class="brand-name">MediPidia</div>
     </div>
     <div class="nav-pill active" data-section="dashboard" onclick="showSection('dashboard')">
       <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="9" rx="1.5"/><rect x="14" y="3" width="7" height="5" rx="1.5"/><rect x="14" y="12" width="7" height="9" rx="1.5"/><rect x="3" y="16" width="7" height="5" rx="1.5"/></svg>
@@ -976,7 +976,7 @@ let reminders = [];
 let vitals = { bp:"", sugar:"", hr:"" };
 let notifications = [];
 let theme = 'light';
-const STORAGE_KEY = 'medishelf:state:v2';
+const STORAGE_KEY = 'medipidia:state:v2';
 function toast(msg){
   const t = document.getElementById('toast');
   t.textContent = msg;
