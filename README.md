@@ -2,11 +2,13 @@
 
 > A modern healthcare management web application that simplifies medicine management, online pharmacy services, doctor appointments, medication reminders, and personal health records—all from a single intuitive dashboard.
 
-![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive-Mobile%20Friendly-28a745?style=for-the-badge)
+![Dark%20Mode](https://img.shields.io/badge/Dark%20Mode-Supported-24292e?style=for-the-badge)
+![LocalStorage](https://img.shields.io/badge/Storage-LocalStorage-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ---
 
