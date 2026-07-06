@@ -21,7 +21,7 @@ A modern **Healthcare Management Web Application** that simplifies medicine mana
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-0A66C2?style=for-the-badge">
 </a>
 
-<a href="https://github.com/suryandugy-glitch/MediShelf">
+<a href="https://github.com/suryandugy-glitch/MEDIPIDIA">
 <img src="https://img.shields.io/badge/⭐%20Star%20Repository-black?style=for-the-badge">
 </a>
 
@@ -32,16 +32,16 @@ A modern **Healthcare Management Web Application** that simplifies medicine mana
 # 📸 Preview
 
 <p align="center">
-<img src="C:\Users\surya\OneDrive\Pictures\Screenshots 1\Screenshot 2026-07-06 133314.png" width="100%" alt="MediShelf Dashboard">
+<img src="C:\Users\surya\OneDrive\Pictures\Screenshots 1\Screenshot 2026-07-06 133314.png" width="100%" alt="MEDIPIDIA Dashboard">
 </p>
 
 ---
 
-# 🚀 About MediShelf
+# 🚀 About MEDIPIDIA
 
-**MediShelf** is a modern, responsive healthcare management web application built to streamline everyday healthcare activities. It combines medicine discovery, online pharmacy services, doctor appointment booking, medication reminders, and digital health records into one elegant and user-friendly platform.
+**MEDIPIDIA** is a modern, responsive healthcare management web application built to streamline everyday healthcare activities. It combines medicine discovery, online pharmacy services, doctor appointment booking, medication reminders, and digital health records into one elegant and user-friendly platform.
 
-Designed with a clean UI and interactive experience, MediShelf showcases modern frontend development practices while solving real-world healthcare management challenges.
+Designed with a clean UI and interactive experience, MEDIPIDIA showcases modern frontend development practices while solving real-world healthcare management challenges.
 
 ---
 
@@ -74,7 +74,7 @@ Designed with a clean UI and interactive experience, MediShelf showcases modern 
 # 📂 Project Structure
 
 ```text
-MediShelf/
+MEDIPIDIA/
 │
 ├── index.html
 ├── style.css
@@ -94,13 +94,13 @@ MediShelf/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/suryandugy-glitch/MediShelf.git
+git clone https://github.com/suryandugy-glitch/MEDIPIDIA.git
 ```
 
 ### Navigate into the Project
 
 ```bash
-cd MediShelf
+cd MEDIPIDIA
 ```
 
 ### Launch the Application
@@ -129,7 +129,7 @@ in your preferred browser.
 
 ---
 
-# 🌟 Why MediShelf?
+# 🌟 Why MEDIPIDIA?
 
 - Modern Glassmorphism UI
 - Interactive Healthcare Dashboard
