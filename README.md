@@ -1,14 +1,17 @@
-<div align="center">
-
 # 🏥 MediPidia
 
 ### *Your Health, At a Glance.*
 
-A modern **Healthcare Management Web Application** that simplifies medicine management, doctor consultations, online pharmacy services, medication reminders, and personal health records—all from a single intuitive dashboard.
+<div align="center">
 
-<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-100%25-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-<br>
+<br><br>
 
 <a href="https://suryandugy-glitch.github.io/MediPidia/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-0A66C2?style=for-the-badge" alt="Live Demo">
@@ -18,7 +21,21 @@ A modern **Healthcare Management Web Application** that simplifies medicine mana
   <img src="https://img.shields.io/badge/⭐%20Star%20Repository-black?style=for-the-badge" alt="Star Repository">
 </a>
 
+<a href="https://github.com/suryandugy-glitch/MediPidia/fork" target="_blank">
+  <img src="https://img.shields.io/badge/🍴%20Fork-Repository-orange?style=for-the-badge" alt="Fork Repository">
+</a>
+
+<a href="https://github.com/suryandugy-glitch/MediPidia/issues" target="_blank">
+  <img src="https://img.shields.io/badge/🐞%20Report-Issue-red?style=for-the-badge" alt="Report Issue">
+</a>
+
 </div>
+
+---
+
+A modern **Healthcare Management Web Application** designed to make healthcare simple, organized, and accessible. **MediPidia** enables users to manage medicines, book doctor consultations, access online pharmacy services, receive medication reminders, and securely maintain personal health records—all through a clean, responsive, and user-friendly interface.
+
+Whether you're tracking daily medications, scheduling appointments, or managing your digital health history, **MediPidia** brings everything together in one seamless platform.
 ---
 
 # 📸 Preview
