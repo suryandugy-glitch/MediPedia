@@ -239,8 +239,38 @@ https://www.linkedin.com/in/suryandu-ganguly01/
 
 https://github.com/suryandugy-glitch
 
----
+# 👨‍💻 Author
 
+## **Utsab Chowdhury**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/utsab-chowdhury-504181306/
+
+🐙 **GitHub**
+
+https://github.com/Godson-82
+
+---
+## **Disha Chakraborty**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/disha-chakraborty-3a7aa9405/?skipRedirect=true
+
+🐙 **GitHub**
+
+https://github.com/chakrabortydisha841-tech
+
+## **Samridhi Pratap Singh**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/samridhi-pratap-singh-7992653b0/
+
+🐙 **GitHub**
+
+https://github.com/samridhi-15
 <div align="center">
 
 ## ⭐ If you enjoyed this project, consider giving it a Star!
@@ -252,3 +282,5 @@ It motivates future development and helps others discover the project.
 **"Your Health, At a Glance."**
 
 </div>
+
+
