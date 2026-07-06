@@ -32,7 +32,8 @@ A modern **Healthcare Management Web Application** that simplifies medicine mana
 # 📸 Preview
 
 <p align="center">
-<img src="assets/screenshots/dashboard.png" width="100%" alt="MediShelf Dashboard">
+<img src="<img width="1333" height="600" alt="image" src="https://github.com/user-attachments/assets/fb62f6c3-6417-4f62-8869-d8710add0e56" />
+" width="100%" alt="MediShelf Dashboard">
 </p>
 
 ---
