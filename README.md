@@ -206,7 +206,14 @@ git push origin feature-name
 
 # 📄 License
 
-This project is licensed under the **MIT License**.
+<p>This project is licensed under the</p>
+
+<a href="https://github.com/suryandugy-glitch/MediPidia/blob/main/LICENSE"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="display:inline-block;padding:10px 20px;background:#238636;color:#fff;text-decoration:none;border-radius:6px;font-weight:bold;">
+   📄 MIT License
+</a>
 
 ---
 
