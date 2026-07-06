@@ -1,4 +1,3 @@
-<img width="1333" height="600" alt="Screenshot 2026-07-06 133314" src="https://github.com/user-attachments/assets/784ef9db-be14-4bab-bfae-528bd121d989" />
 <div align="center">
 
 # 🏥 MediPidia
@@ -34,7 +33,7 @@ A modern **Healthcare Management Web Application** that simplifies medicine mana
 
 <p align="center">
 <img width="1333" height="600" alt="Screenshot 2026-07-06 133314" src="https://github.com/user-attachments/assets/ffc84112-1942-438f-8a3e-c12f5e84c2f1" />
-" width="100%" alt="MEDIPIDIA Dashboard">
+
 </p>
 
 ---
